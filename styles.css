@@ -27,7 +27,7 @@ html {
         width: 100%;
         height: 11rem;
         position: relative;
-        background-image: url(assets/banner.jpeg);
+        background-image: url(https://pbs.twimg.com/profile_banners/1545753603239026688/1667853540/1500x500);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -42,7 +42,7 @@ html {
         position: absolute;
         top: 40%;
         left: 5%;
-        background-image: url(https://powered.by.dustlabs.com/cdn-cgi/image/width=640/https://metadata.y00ts.com/y/1044.png);
+        background-image: url(https://powered.by.dustlabs.com/cdn-cgi/image/width=640/https://metadata.y00ts.com/y/140.png);
         background-position: bottom;
         background-size: cover;
         background-repeat: no-repeat;
